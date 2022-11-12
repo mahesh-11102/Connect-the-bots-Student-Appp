@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880091819320",
+    "project_id": "connect-the-bots-b685e",
+    "storage_bucket": "connect-the-bots-b685e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880091819320:android:30ad9e5a80ecfc2ea365cd",
+        "android_client_info": {
+          "package_name": "com.iic.connectthebots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880091819320-oonddosfssd4bda0dgcmjscfb2g5l3pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtXT6ZNKC3J55r1N0qtPBUmTzxtOCX-vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880091819320-oonddosfssd4bda0dgcmjscfb2g5l3pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
